@@ -1,2 +1,2 @@
-# quote-generator
-Generates a quote of the day
+# Bible Verse Generator
+Generates a bible verse in KJV
